@@ -48,8 +48,8 @@ Traditional resume collection is tedious and inefficient. YourHR offers a modern
 
 ## 🛠️ Tech Stack
 
-- **React.js** for dynamic, component-driven frontend  
-- **Tailwind CSS** for clean and responsive design  
+- **Html** for dynamic, component-driven frontend  
+- **CSS** for clean and responsive design  
 - **Axios** for API calls and backend communication  
 - **Node.js & Express.js** for RESTful API backend  
 - **MongoDB (Mongoose)** for flexible, document-oriented data storage  
